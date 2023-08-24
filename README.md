@@ -1,2 +1,2 @@
 # Deep-Tsetlin-Machine
-Creating multi-layer Tsetlin Machines 
+Experimenting with multi-layer Tsetlin Machines 
